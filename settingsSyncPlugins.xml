@@ -24,6 +24,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.ixigua.flutter_asset_iteral">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.localizely.flutter-intl">
           <value>
             <PluginData>
