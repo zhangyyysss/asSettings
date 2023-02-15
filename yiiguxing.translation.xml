@@ -1,0 +1,18 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1676468355339" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="This future has completed synchronously (completer was never assigned), so we can directly create the synchronous result to return." />
+      <item value="If the code reaches here, it means the imageProvider.obtainKey was not completed sync, so we initialize the completer for completion later." />
+      <item value="If the code reaches here, it means the imageProvider.obtainKey was not" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
+  </component>
+</application>
