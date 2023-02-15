@@ -3,14 +3,17 @@
     <option name="lastTrimTime" value="1676468355339" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogX" value="828" />
+    <option name="newTranslationDialogY" value="642" />
     <histories>
+      <item value="Stops the specified listener from receiving image stream events. If listener has been added multiple times, this removes the first instance of the listener. Once all listeners have been removed and all keepAlive handles have been disposed, this image stream is no longer usable." />
       <item value="This future has completed synchronously (completer was never assigned), so we can directly create the synchronous result to return." />
       <item value="If the code reaches here, it means the imageProvider.obtainKey was not completed sync, so we initialize the completer for completion later." />
       <item value="If the code reaches here, it means the imageProvider.obtainKey was not" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
+        <entry key="CHINESE" value="3" />
         <entry key="ENGLISH" value="3" />
       </map>
     </option>
