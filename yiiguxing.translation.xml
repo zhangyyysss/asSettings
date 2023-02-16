@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="828" />
     <option name="newTranslationDialogY" value="642" />
     <histories>
+      <item value="_debug" />
       <item value="Adds a callback to call when removeListener results in an empty list of listeners and there are no keepAlive handles outstanding. This callback will never fire if removeListener is never called." />
       <item value="Stops the specified listener from receiving image stream events. If listener has been added multiple times, this removes the first instance of the listener. Once all listeners have been removed and all keepAlive handles have been disposed, this image stream is no longer usable." />
       <item value="This future has completed synchronously (completer was never assigned), so we can directly create the synchronous result to return." />
@@ -15,7 +16,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
