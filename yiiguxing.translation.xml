@@ -1,11 +1,15 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676468355339" />
+    <option name="lastTrimTime" value="1681354431279" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogX" value="828" />
-    <option name="newTranslationDialogY" value="642" />
+    <option name="newTranslationDialogWidth" value="1302" />
+    <option name="newTranslationDialogX" value="478" />
+    <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="  /// Re-maps a number from one range to another.&#10;  ///&#10;  /// A value of fromLow would get mapped to toLow, a value of fromHigh to toHigh, values in-between to values in-between, etc" />
+      <item value="  /// Re-maps a number from one range to another.&#10;  ///&#10;  /// A value of fromLow would get mapped to toLow, a value of&#10;  /// fromHigh to toHigh, values in-between to values in-between, etc" />
+      <item value="Stop current sheet transition and call willPop to confirm/cancel the pop" />
       <item value="_debug" />
       <item value="Adds a callback to call when removeListener results in an empty list of listeners and there are no keepAlive handles outstanding. This callback will never fire if removeListener is never called." />
       <item value="Stops the specified listener from receiving image stream events. If listener has been added multiple times, this removes the first instance of the listener. Once all listeners have been removed and all keepAlive handles have been disposed, this image stream is no longer usable." />
@@ -15,7 +19,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
+        <entry key="CHINESE" value="6" />
         <entry key="ENGLISH" value="4" />
       </map>
     </option>
